@@ -1,6 +1,20 @@
-.column {
-  width: 300px;
+.column1 {
+  width: 33.3%;
   float: left;
+  background-color: blue;
+  text-align: center;
+}
+.column2 {
+  width: 33.3%;
+  float: left;
+  background-color: green;
+  text-align: center;
+}
+.column3 {
+  width: 33.3%;
+  float: left;
+  background-color: orange;
+  text-align: center;
 }
 img {
   height: 300px;
